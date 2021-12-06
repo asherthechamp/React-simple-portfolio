@@ -1,7 +1,7 @@
 
 # React Simple Portfolio
 
-![Intro GIF](https://github.com/codewithvk/React-simple-portfolio/blob/master/assets/Intro.gif)
+# You can see the website from this url. https://asherthechamp.github.io/React-simple-portfolio/
 
 ## Getting started
 
